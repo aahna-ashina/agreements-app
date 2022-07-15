@@ -16,3 +16,4 @@ jobs:
         version: nightly
     - run: forge install
     - run: forge build
+    - run: forge test
